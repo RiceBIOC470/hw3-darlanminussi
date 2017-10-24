@@ -1,3 +1,14 @@
+% GB Comments
+1.	50 Need to set a Gap penalty to get the correct alignment heat map
+2a. 70 Be careful with how you calculate the fraction of alignment between two sequences. You are passing your alignment data only to calculate the alignment. Meaning the total sequence length is longer than what is found in the alignment sequence. As a result you get an artificially higher percentage. 
+2b. 70 same issue as 2a
+2c. 70 same issue as 2a. 
+3a 100 
+3b. 100
+3c. 100  	
+Overall: 80
+
+
 % Darlan Conterno Minussi
 %HW3
 
